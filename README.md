@@ -1,7 +1,8 @@
 # 📘 Striver's A2Z DSA Sheet – My Solutions
 
 Welcome to my DSA journey! 🚀  
-This repository contains my daily progress and C++ solutions as I work through [Striver's A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-a2z-dsa-course-sheet-2/)
+This repository contains my daily progress and C++ solutions as I work through [Striver's A2Z DSA Sheet] -
+(https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 — a curated roadmap for mastering Data Structures and Algorithms.
 
 ---
@@ -53,5 +54,5 @@ If you're also learning DSA, feel free to connect with me on [LinkedIn](https://
 ## 📌 Credits
 
 - [Striver - Take U Forward](https://takeuforward.org/)
-- [Abdul Bari - YouTube](https://www.youtube.com/user/abdulbarikcs)
+- [Abdul Bari - YouTube](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
