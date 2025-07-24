@@ -1,4 +1,4 @@
-# 📘 Striver's A2Z DSA Sheet – My Solutions
+# 📘 Striver's A2Z DSA Sheet – My Solutions in c++
 
 Welcome to my DSA journey! 🚀  
 This repository contains my daily progress and C++ solutions as I work through [Striver's A2Z DSA Sheet] -
