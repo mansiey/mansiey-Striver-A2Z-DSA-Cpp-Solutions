@@ -11,7 +11,7 @@ I’ve tried my best to follow the original structure of the sheet so things sta
 ## 🧭 What's in this folder?
 
 This folder contains my solutions and notes for **Step 1 – Learn the Basics**, which includes important foundational topics in C++ (or whichever language you’re using).  
-While I haven’t solved **every** single problem, I’ve handpicked and included the **most essential ones** — the ones that really **strengthen your fundamentals** before diving deeper into DSA. 💡
+While I haven’t listed **every** single problem, I’ve handpicked and included the **most essential ones** — the ones that really **strengthen your fundamentals** before diving deeper into DSA. 💡
 
 ---
 
