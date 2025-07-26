@@ -37,7 +37,6 @@ Trust me, if you're **comfortable here**, the next steps will feel way smoother!
 **Mansi Singh**  
 Language Used: **C++**  
 GitHub: [@mansiey](https://github.com/mansiey)
-
 linkedin: [@Mansi Singh](https://www.linkedin.com/in/mansi-singh-774647376/)
 
 
