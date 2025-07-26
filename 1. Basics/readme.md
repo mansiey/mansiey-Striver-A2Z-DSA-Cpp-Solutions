@@ -1,8 +1,5 @@
 # 🚀 Step 1: Learn the Basics – Language Fundamentals
 
-![Repo Size](https://img.shields.io/github/repo-size/mansiey/Striver-A2Z-DSA-Cpp-Solutions?color=brightgreen)
-![Language](https://img.shields.io/github/languages/top/mansiey/Striver-A2Z-DSA-Cpp-Solutions?color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/mansiey/Striver-A2Z-DSA-Cpp-Solutions?color=orange)
 
 👋 Hello, viewer!
 
@@ -20,12 +17,9 @@ While I haven’t solved **every** single problem, I’ve handpicked and include
 
 ## 📚 Topics Covered
 
-🔹 Input/Output  
-🔹 Conditional Statements  
-🔹 Loops  
-🔹 Basic Pattern Printing  
-🔹 Functions  
-🔹 STL Basics *(Coming soon)*
+🔹 Basic Pattern Printing
+🔹 Basic Recursion 
+🔹 Basic maths  
 
 These are all the key building blocks you should know when starting your DSA prep in **any** language! 🔧
 
@@ -43,6 +37,8 @@ Trust me, if you're **comfortable here**, the next steps will feel way smoother!
 **Mansi Singh**  
 Language Used: **C++**  
 GitHub: [@mansiey](https://github.com/mansiey)
+linkedin: [@Mansi Singh](https://www.linkedin.com/in/mansi-singh-774647376/)
+
 
 ---
 
