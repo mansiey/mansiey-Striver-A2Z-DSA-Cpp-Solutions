@@ -1,0 +1,31 @@
+/* In this particular folder i will be listing some questions and their solutions in c++ code.
+   I would highly advise to find the striver's A2Z DSA list if you do not have the paid subscription.
+   The  questiom list is available on codolio for free with the corresponding question on different platforms.
+   In all the questions, the function is provided by the editor you just need to write the logic of the code, 
+   not the main function. input will be provided for 
+
+   Question 1: Sum of Array Elements 
+   Given an array arr of size n, the task is to find the sum of all the elements in the array.
+
+code:
+*/
+
+class Solution{
+public:
+	int sum(int arr[], int n) {  
+        //linear search 
+        int sum = 0;   //declaring the variable to add each element of array
+        for(int i = 0; i < n; i++)
+        {   // iterating through the array
+            sum = sum + arr[i];
+        }  
+        return sum;
+	}
+};
+
+
+/*
+Question 2 : 
+
+
+
