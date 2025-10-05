@@ -17,9 +17,10 @@ While I haven’t listed **every** single problem, I’ve handpicked and include
 
 ## 📚 Topics Covered
 
-🔹 Basic Pattern Printing
+🔹 Basic Arrays
 🔹 Basic Recursion 
-🔹 Basic maths  
+🔹 Basic Maths  
+🔹 Basic strings
 
 These are all the key building blocks you should know when starting your DSA prep in **any** language! 🔧
 
