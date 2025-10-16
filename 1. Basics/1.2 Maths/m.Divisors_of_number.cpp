@@ -9,6 +9,8 @@ Space Complexity: O(sqrt(N)) – A number N can have at max 2*sqrt(N) divisors, 
 
 code:
 */
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
    public:
     vector<int> divisors(int n) {
