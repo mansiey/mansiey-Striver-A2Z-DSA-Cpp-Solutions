@@ -16,7 +16,7 @@ class Solution {
             n = n / 10;
 
             revnum = (revnum * 10) + lastdigit;  
-            //we need to multiply the no. by 10 otherwise if=t will simply add the 2 digits
+            //we need to multiply the no. by 10 otherwise it will simply add the 2 digits
         }
         return revnum;
     }
