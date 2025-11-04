@@ -1,4 +1,4 @@
-/* Question - 1: BUBBLE SORT
+/* Question - 2: BUBBLE SORT
 Given an array of integers called nums,
 sort the array in non-decreasing order using the bubble sort algorithm and return the sorted array.
 
