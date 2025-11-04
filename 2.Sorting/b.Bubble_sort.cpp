@@ -2,7 +2,11 @@
 Given an array of integers called nums,
 sort the array in non-decreasing order using the bubble sort algorithm and return the sorted array.
 
-Time Complexity: O(n²)
+NOTE:
+Push the maximum to the last position by adjacent swapping. 
+keep on takin the 2 adjacent element and keep on pushing the max to the right.
+
+Time Complexity: O(n²) -> if the array is already sorted, O(n) 
 Space Complexity: O(1)
 
 Code:

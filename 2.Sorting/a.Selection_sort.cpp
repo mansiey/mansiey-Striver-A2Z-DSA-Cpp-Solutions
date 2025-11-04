@@ -2,7 +2,12 @@
 Given an array of integers nums, sort the array in non-decreasing order using the 
 selection sort algorithm and return the sorted array.
 
-Time Complexity: O(n²)
+NOTE:
+select minimum and place it in the beginning, by changing the initial position of the array.
+after you've placed the minimm at the 0th index, consider 1st index as your new initial position.
+
+
+Time Complexity: O(n²)  -> always
 Space Complexity: O(1)
 
 Code:
