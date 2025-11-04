@@ -1,4 +1,4 @@
-/* Question - 2: INSERTION SORT
+/* Question - 3: INSERTION SORT
 Given an array of integers called nums,
 sort the array in non-decreasing order using the insertion sort algorithm and return the sorted array.
 
